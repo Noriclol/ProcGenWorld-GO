@@ -1,4 +1,4 @@
-package world
+package terrain
 
 type biome struct {
 	name string

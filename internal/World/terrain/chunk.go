@@ -1,4 +1,4 @@
-package world
+package terrain
 
 type Chunk struct {
 }
